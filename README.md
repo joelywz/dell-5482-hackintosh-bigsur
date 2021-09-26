@@ -21,6 +21,12 @@
 # Recovery
 Complete your bootable USB by following this [official guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos).
 
+# BIOS Settings
+Secure Boot: Disabled
+SATA Operation: AHCI
+Intel SGX: Disabled
+VT for Direct I/O (VT-D): Enabled
+
 # Post-Install
 ### Sleep/Wake
 [Source](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html)
@@ -37,5 +43,8 @@ sudo pmset tcpkeepalive 0
 ```
 layout 3, 11, 12, 13, 14, 15, 16, 18, 36, 54, 99
 ```
+
+# Notes
+- Trackpad settings are only available when battery is present.
 
 

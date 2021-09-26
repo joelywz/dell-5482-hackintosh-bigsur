@@ -22,10 +22,10 @@
 Complete your bootable USB by following this [official guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos).
 
 # BIOS Settings
-Secure Boot: Disabled
-SATA Operation: AHCI
-Intel SGX: Disabled
-VT for Direct I/O (VT-D): Enabled
+__Secure Boot__: Disabled  
+__SATA Operation__: AHCI  
+__Intel SGX__: Disabled  
+__VT for Direct I/O (VT-D)__: Enabled  
 
 # Post-Install
 ### Sleep/Wake

@@ -1,5 +1,7 @@
 # Dell Inspiron 5482 2-in-1 Hackintosh (BigSur)
 
+![About This Mac](https://github.com/joelywz/dell-5482-hackintosh-bigsur/blob/main/about.png)
+
 **CPU**: Intel Core i7-8565U  
 **GPU**: Intel UHD Graphics 620  
 **RAM**: 12 GB 2400 MHz DDR4   

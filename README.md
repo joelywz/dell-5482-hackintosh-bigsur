@@ -5,7 +5,7 @@
 **CPU**: Intel Core i7-8565U  
 **GPU**: Intel UHD Graphics 620  
 **RAM**: 12 GB 2400 MHz DDR4   
-**Wifi/BT Card**: Intel ...    
+**Wifi/BT Card**: Intel 9560NGWR  
 
 **SMBIOS**: MacbookPro15,2
 

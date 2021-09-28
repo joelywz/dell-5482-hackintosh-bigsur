@@ -50,5 +50,5 @@ layout 3, 11, 12, 13, 14, 15, 16, 18, 36, 54, 99
 - Trackpad settings are only available when battery is present.
 
 # Credits
-[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
-[daggeryu](https://github.com/daggeryu/DELL-Inspiron_5488_5480_5580_5482_5582_Hackintosh) - For the ACPI
+1. [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore  
+2. [daggeryu](https://github.com/daggeryu/DELL-Inspiron_5488_5480_5580_5482_5582_Hackintosh) - For the ACPI
